@@ -1,5 +1,5 @@
 # Intellect
 
 Run the following commands inside the project folder:
-npm i
-npm start
+1) npm i
+2) npm start
